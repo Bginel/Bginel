@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno Ginél
+- 👋 Hi, I’m Bruno
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning about html and css.
 - 📫 how to reach me, through social networks on instagram as bginel, i know a little english, but i'm studying about it.
